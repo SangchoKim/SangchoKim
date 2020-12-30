@@ -5,6 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdrms1919@gmail.com)](mailto:wjdrms1919@gmail.com)
 
 [![Santos's github stat](https://github-readme-stats.vercel.app/api?username=SangchoKim&hide=prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangchoKim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  ### Halos 👋😄👯🔭⚡📫🤔🌱
