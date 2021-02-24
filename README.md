@@ -4,8 +4,6 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/belle.korea.store/)](https://www.facebook.com/belle.korea.store/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdrms1919@gmail.com)](mailto:wjdrms1919@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangchoKim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Santos's github stat](https://github-readme-stats.vercel.app/api?username=SangchoKim&hide=prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
  ### Halo 👋😄👯🔭⚡📫🤔🌱💬
