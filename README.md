@@ -6,14 +6,7 @@
 [![Notion Badge](https://img.shields.io/badge/Resume-yellow?style=flat-square&logo=Notion&logoColor=black&link=https://scientific-shawl-44f.notion.site/Santos-84e316a2b9b64c8f8562c3989eb8ef1c)](https://scientific-shawl-44f.notion.site/Santos-84e316a2b9b64c8f8562c3989eb8ef1c)
 
 <!-- [![Santos's github stat](https://github-readme-stats.vercel.app/api?username=SangchoKim&hide=prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-  As a 2nd year developer, I have experience developing/distributing web
-          and app services. I was mainly in charge of the front stage in web
-          service development, and the BACK stage was also developed as needed.
-          <br />
-          <br /> I started my first career with a small team, and gained a lot
-          of experience in a short period of time.
-          
+   
   I am a developer who values ​​"collaboration" with team members in
           various roles. Because if you are not alone, you can lead to better
           creative results and unexpected possibilities.
