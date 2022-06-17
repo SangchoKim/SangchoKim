@@ -9,7 +9,7 @@
 
 ![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangchoKim&show_icons=true&theme=synthwave)
    
-  I am a developer who values **"collaboration"** with team members in
+  I am a developer who values **collaboration** with team members in
           various roles. Because if you are not alone, you can lead to better
           creative results and unexpected possibilities.
           <br />
