@@ -9,34 +9,10 @@
 
 ![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangchoKim&show_icons=true&theme=synthwave)
    
-  I am a developer who values **collaboration** with team members in
-          various roles. Because if you are not alone, you can lead to better
-          creative results and unexpected possibilities.
-          <br />
-          <br /> We believe that business growth can be achieved through trust
-          between team members.
-          
-          
-  We believe in the infinite possibilities of **effort**. We believe that
-          changing yourself is **effort**. <br />
-          <br /> When I finished 10 years of playing career due to a 20-year-old
-          injury, when I said that I was going to New Zealand without knowing
-          how to read English, or when I said that I was going to work as a
-          developer after graduating from college, everyone expressed concerns
-          that it was an absurd path, but day by day "Effort" of "I" made me who
-          I am today.
- 
-<!--
-**SangchoKim/SangchoKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚽️ I finished 10 years of soccer playing career due to a 20-year-old injury
+- 🔭 I’m currently working on standpoint as front web programmer
+- 📖 I’m currently learning next.js
+- 🌱 I’m interested in react
+- 🏃‍♀️ I’m running marathon for the free time
+- 💕 I have the values **collaboration** with team members in various roles
+- 🤔 I believe in the infinite possibilities of **effort**
