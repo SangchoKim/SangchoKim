@@ -6,8 +6,6 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/belle.korea.store/)](https://www.facebook.com/belle.korea.store/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdrms1919@gmail.com)](mailto:wjdrms1919@gmail.com)
 [![Notion Badge](https://img.shields.io/badge/Resume-yellow?style=flat-square&logo=Notion&logoColor=black&link=https://scientific-shawl-44f.notion.site/Santos-84e316a2b9b64c8f8562c3989eb8ef1c)](https://scientific-shawl-44f.notion.site/Santos-84e316a2b9b64c8f8562c3989eb8ef1c)
-
-![Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangchoKim&show_icons=true&theme=synthwave)
    
 - ⚽️ I finished 10 years of soccer playing career due to a 20-year-old injury
 - 🔭 I’m currently working on standpoint as front web programmer
