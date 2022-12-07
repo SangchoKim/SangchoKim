@@ -8,7 +8,7 @@
 [![Notion Badge](https://img.shields.io/badge/Resume-yellow?style=flat-square&logo=Notion&logoColor=black&link=https://scientific-shawl-44f.notion.site/Santos-84e316a2b9b64c8f8562c3989eb8ef1c)](https://scientific-shawl-44f.notion.site/Santos-84e316a2b9b64c8f8562c3989eb8ef1c)
    
 - ⚽️ I finished 10 years of soccer playing career due to a 20-year-old injury
-- 🔭 I’m currently working on standpoint as front web programmer
+- 🔭 I’m currently working on EST as front web programmer
 - 📖 I’m currently learning next.js
 - 🌱 I’m interested in react
 - 🏃‍♀️ I’m running marathon for the free time
